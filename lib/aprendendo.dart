@@ -7,4 +7,5 @@ void main() {
 // Modifique esta função para retornar um widget do tipo Text
 // com a mensagem "Aprendendo Flutter!"
 criaApp() {
+  return Placeholder();
 }
