@@ -15,7 +15,9 @@ void main() {
 /// +1, +5 e +25. Ao clicar em cada um deles, o contador é incrementado
 /// em 1, 5 e 25, respectivamente, e uma snackbar é exibida com o texto
 /// "Contador: <N>", onde <N> é o valor atual do contador.
-/// 
+///
+/// Use uma duração de 500 milissegundos para a snackbar.
+///
 /// OBS.: Não é uma boa prática guardar o estado do contador dentro de
 /// um StatelessWidget, mas vamos fazer isso por enquanto para aprender
 /// como funciona.
